@@ -1,0 +1,21 @@
+{
+    "name": "nodejs-streams",
+    "description": "",
+    "version": "0.0.1",
+    "main": "./streams01.js",
+    "author": {
+        "name": "Darek Dawidowicz",
+        "email": "ddaw@wp.pl"
+    },
+    "keywords": [],
+    "licenses": {
+        "type": "none"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/dragoncreations/nodejs-streams.git"
+    },
+    "bugs": {
+        "url": "http://github.com/YOUR_LOGIN/nodejs-streams/issues"
+    }
+}
